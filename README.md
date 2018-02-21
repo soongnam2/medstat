@@ -1,6 +1,6 @@
 # Python Programming for Medical Statistics
 
-> This github is intended to introduce Python programming for medical statistics.
+> This github is intended to introduce Python programming for medical statistics. The goal is to make it possible for R to work with Python for medical statistics work. Please contact yongjaekimn@gmail.com for discussions.
 
 ## Python Fundamentals
 - www.codecademy.com : Free sign up and take a free Python tutorial course named 'Learn Python'
