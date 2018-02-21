@@ -2,10 +2,6 @@
 
 > This github is intended to introduce Python programming for medical statistics. The primary goal is to be able to work with Python in clinical medical statistics. Please contact yongjaekimn@gmail.com for discussions.
 
-## Table of Contents
-- [Python Fundamentals](#python-fundamentals)
-
-
 ## Python Fundamentals
 - www.codecademy.com : Free sign up and take a free Python tutorial course named 'Learn Python'
 - www.python.org/doc : Official Python Docs and Library Reference
