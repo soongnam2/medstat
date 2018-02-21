@@ -8,7 +8,7 @@ This github is intended to introduce Python programming for medical statistics.
 
 - Analysis of Numerical Outcomes
   - Mean, Standard Deviations and Standard Errors
-    - https://docs.python.org/3/library/statistics.html : Provided native Python library named "statistics.py"
+    - https://docs.python.org/3/library/statistics.html : Provided by native Python library named "statistics.py"
   - The Normal Distribution
   - Confidence interval for a mean
   - Comparison of two means: confidence intervals, hypothesis tests and P-values
