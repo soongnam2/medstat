@@ -9,7 +9,7 @@
 ## Analysis of Numerical Outcomes
 - Mean, Standard Deviations and Standard Errors
   - https://docs.python.org/3/library/statistics.html : Provided by native Python library named "statistics.py"
-- The Normal Distribution
+  - The Normal Distribution
   - Confidence interval for a mean
   - Comparison of two means: confidence intervals, hypothesis tests and P-values
   - Using P-values and confidence intervals to interpret the results of statistical analyses
