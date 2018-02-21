@@ -7,6 +7,7 @@ This github is intended to introduce Python programming for medical statistics.
   - www.python.org/doc : Official Python Docs and Library Reference
 
 - Mean, Standard Deviations and Standard Errors
+  - https://docs.python.org/3/library/statistics.html : Provided native Python library named "statistics.py"
 
 - Futher Readings
   - http://en.wikipedia.org/wiki/Medical_statistics
