@@ -8,5 +8,5 @@ This github is intended to introduce Python programming for medical statistics.
 
 
 - Futher Readings
-  - en.wikipedia.org/wiki/Medical_statistics
+  - http://en.wikipedia.org/wiki/Medical_statistics
   - 
