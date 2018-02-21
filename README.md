@@ -2,5 +2,4 @@
 
 This github was mainly created to introduce python programming for medical statistics.
 
-Python Fundamentals
- - www.codecademy.com : Coruse named 'Learn Python'
+ - www.codecademy.com : Free sign up and take a tutorial class named 'Learn Python'
